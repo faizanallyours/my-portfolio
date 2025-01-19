@@ -21,7 +21,7 @@ a {
 
 /* Header */
 .header {
-  background: linear-gradient(180deg, #f9f9f9, #6c63ff);
+  background: linear-gradient(180deg, #6c63ff, #f9f9f9);
   color: white;
   text-align: center;
   padding: 40px 20px;
